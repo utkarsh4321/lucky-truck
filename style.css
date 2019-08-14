@@ -54,7 +54,7 @@ html {
   margin-right: 10px;
 }
 
-.nav .nav-link::after {
+.nav .nav-link::afte r {
   content: "";
   position: absolute;
   width: 0px;
